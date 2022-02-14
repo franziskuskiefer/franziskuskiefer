@@ -5,7 +5,7 @@
   - Tooling to verify [crypto code and protocols]
   - Making [HACL] a usable crypto library
   - Implementing [OpenMLS]
-- 🌱 I’m currently learning to mediate 🧘🏻
+- 🌱 I’m learning to mediate 🧘🏻
 - 👯 I’m looking to collaborate on cryptography analysis, design, and implementation
 
 [OpenMLS]: https://github.com/openmls/openmls/
