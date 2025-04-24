@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently working on
   - Building [Cryspen]
-  - Tooling to verify [crypto code and protocols]
+  - Tooling to [verify Rust code]
   - Implementing [OpenMLS]
 - 🌱 I’m learning to mediate 🧘🏻
 - 👯 I’m looking to collaborate on cryptography analysis, design, and implementation
 
 [OpenMLS]: https://github.com/openmls/openmls/
-[crypto code and protocols]: https://github.com/hacspec/hacspec/
+[verify Rust code]: https://github.com/cryspen/hax/
 [Cryspen]: https://www.cryspen.com/
